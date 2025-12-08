@@ -173,14 +173,15 @@ Si vous souhaitez discuter du projet, obtenir la version complète du dashboard 
     
 Je suis ouvert aux opportunités dans les domaines :
 
--> Data Analyst
--> Data Engineering 
--> Business Intelligence
+- Data Analyst
+- Data Engineering 
+- Business Intelligence
 
 ### Remerciements : 
 
 Merci de votre intérêt pour ce projet !
 J’ai réalisé ce travail pour progresser dans le domaine de la data et me rapprocher de mon objectif professionnel : intégrer une alternance dans le domaine Data.
+
 
 
 
