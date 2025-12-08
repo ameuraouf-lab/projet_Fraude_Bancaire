@@ -25,7 +25,7 @@ Il s’appuie sur un dataset de transactions bancaires afin d’identifier et co
 
 ##  Structure du projet
 
-''' fraude-bancaire
+``` fraude-bancaire
 │
 ├── data/
 │ ├── raw/ # Données brutes (ignorées par Git)
@@ -47,7 +47,7 @@ Il s’appuie sur un dataset de transactions bancaires afin d’identifier et co
 ├── requirements.txt # Dépendances Python
 ├── .gitignore # Fichiers exclus du repository
 └── README.md # Documentation du projet
-'''
+```
 
 ---
 
@@ -152,7 +152,7 @@ Un aperçu visuel (`dashboard.png`) est fourni à la place.
 ➡️ Dossiers générés automatiquement par Jupyter et par le pipeline.
 
 ## Architecture du workflow :
-'''
+```
 Données brutes 
       ↓
 Pipeline ETL (Python)
@@ -164,7 +164,7 @@ Analyse exploratoire (notebooks)
 Dashboard Power BI
       ↓
 Documentation GitHub
-'''
+```
 ##  Contact :
 
 Si vous souhaitez discuter du projet, obtenir la version complète du dashboard ou échanger sur une opportunité d’alternance :
@@ -181,6 +181,7 @@ Je suis ouvert aux opportunités dans les domaines :
 
 Merci de votre intérêt pour ce projet !
 J’ai réalisé ce travail pour progresser dans le domaine de la data et me rapprocher de mon objectif professionnel : intégrer une alternance dans le domaine Data.
+
 
 
 
