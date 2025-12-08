@@ -9,7 +9,7 @@ Il s’appuie sur un dataset de transactions bancaires afin d’identifier et co
 
 *(L’aperçu est fourni car le fichier `.pbix` n’est pas inclus dans le repo pour des raisons de taille)*
 
-![Aperçu Dashboard](./reports/dashboard.png)
+![Aperçu Dashboard](./reports/reporting_fraude_bancaire.png)
 
 ---
 
@@ -171,14 +171,17 @@ Si vous souhaitez discuter du projet, obtenir la version complète du dashboard 
     * Email : ameuraouf99@gmail.com
     * linkdin : https://www.linkedin.com/in/aouf-mohamed-ameur-4670162a3/
     
-Je suis ouvert aux opportunités dans les domaines : Data Analyst
-                                                    Data Engineering 
-                                                    Business Intelligence
+Je suis ouvert aux opportunités dans les domaines :
+
+-> Data Analyst
+-> Data Engineering 
+-> Business Intelligence
 
 ### Remerciements : 
 
 Merci de votre intérêt pour ce projet !
 J’ai réalisé ce travail pour progresser dans le domaine de la data et me rapprocher de mon objectif professionnel : intégrer une alternance dans le domaine Data.
+
 
 
 
