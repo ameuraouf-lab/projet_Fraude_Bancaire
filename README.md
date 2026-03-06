@@ -168,7 +168,7 @@ Documentation GitHub
 ##  Contact :
 
 Si vous souhaitez discuter du projet, obtenir la version complète du dashboard ou échanger sur une opportunité d’alternance :
-    * Email : ameuraouf99@gmail.com
+    * Email : mohamed.ameur.aouf@gmail.com
     * linkdin : https://www.linkedin.com/in/aouf-mohamed-ameur-4670162a3/
     
 Je suis ouvert aux opportunités dans les domaines :
@@ -181,6 +181,7 @@ Je suis ouvert aux opportunités dans les domaines :
 
 Merci de votre intérêt pour ce projet !
 J’ai réalisé ce travail pour progresser dans le domaine de la data et me rapprocher de mon objectif professionnel : intégrer une alternance dans le domaine Data.
+
 
 
 
